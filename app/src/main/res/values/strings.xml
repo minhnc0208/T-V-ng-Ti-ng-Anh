@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Từ Vựng Tiếng Anh</string>
+    <string-array name="arrLoaiTu">
+        <item>noun</item>
+        <item>adjective</item>
+        <item>adverb</item>
+        <item>verb</item>
+        <item>pronoun</item>
+        <item>preposition</item>
+    </string-array>
+</resources>

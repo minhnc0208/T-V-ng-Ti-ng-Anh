@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00c7ff</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#7900abe4</color>
+    <color name="colorSlide">#9860d8ff</color>
+    <color name="btnKiemTra">#32CD32</color>
+</resources>
